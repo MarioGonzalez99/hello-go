@@ -1,4 +1,4 @@
-module github.com/mariogonzalez99/hello
+module github.com/mariogonzalez99/hello-go
 
 go 1.18
 
